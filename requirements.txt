@@ -1,0 +1,3 @@
+mesop
+anthropic
+google-generativeai
