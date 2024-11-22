@@ -51,7 +51,7 @@ mesop main.py
 
 ## What to do next?
 
-Go ahead and change the system prompt and see what you can do with Grok. The prompt is in the [main.py](https://github.com/rumarlon/gemini-grok-duo-mesop/blob/master/gemini.py). You should not have to restart to see the changes as mesop automatically reloads. Sky is the limit!
+Go ahead and change the system prompt and see what you can do with Grok. The prompt is in the [main.py](https://github.com/rumarlon/gemini-grok-duo-mesop/blob/master/claude.py). You should not have to restart to see the changes as mesop automatically reloads. Sky is the limit!
 
 From:
 ```
