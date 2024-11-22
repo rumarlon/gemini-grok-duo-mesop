@@ -7,7 +7,7 @@ import gemini
 # 1. Styles
 ROOT_BOX_STYLE = me.Style(
     background="#e7f2ff",
-    height="100%",
+    height="100vh",
     font_family="Inter",
     display="flex",
     flex_direction="column",
@@ -218,12 +218,23 @@ def page():
         with me.box(
             style=me.Style(
                 width="min(680px, 100%)",
-                margin=me.Margin.symmetric(horizontal="auto", vertical=36),
+                margin=me.Margin.symmetric(horizontal="auto"),
+                flex_grow=1,
+                overflow_y="auto",
+                padding=me.Padding.symmetric(vertical=36),
             )
         ):
             me.text(
                 "Chat with multiple models at once",
                 style=me.Style(font_size=20, margin=me.Margin(bottom=24)),
             )
-            chat_input()
             display_conversations()
+        
+        with me.box(
+            style=me.Style(
+                width="min(680px, 100%)",
+                margin=me.Margin.symmetric(horizontal="auto"),
+                padding=me.Padding.symmetric(vertical=16),
+            )
+        ):
+            chat_input()
