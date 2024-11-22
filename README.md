@@ -40,7 +40,7 @@ Text only:
 mesop main.py
 ```
 6) Copy the url provided in terminal and paste into your favorite browser
-7) You will need to input your key(s) in the UI to access the API. This app is run locally so the key(s) will not be sent anywhere.
+7) You will need to input your key(s) in the UI to access the API. The minimum configuration is to add one key. This app is run locally so the key(s) will not be sent anywhere.
 ![image](https://github.com/rumarlon/gemini-grok-duo-mesop/blob/master/images/mesop_api_01.png)
 
 ![image](https://github.com/rumarlon/gemini-grok-duo-mesop/blob/master/images/mesop_api_02.png)
