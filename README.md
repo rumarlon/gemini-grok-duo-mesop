@@ -39,8 +39,13 @@ Text only:
 ```
 mesop main.py
 ```
+6) Copy the url provided in terminal and paste into your favorite browser
+7) You will need to input your key(s) in the UI to access the API. This app is run locally so the key(s) will not be sent anywhere.
+![image](https://github.com/rumarlon/gemini-grok-duo-mesop/blob/master/images/mesop_api_01.png)
 
-7) Copy the url provided in terminal and paste into your favorite browser
+![image](https://github.com/rumarlon/gemini-grok-duo-mesop/blob/master/images/mesop_api_02.png)
+
+
 8) Try a user prompt example, "What is the meaning of life, the universe, and everything?"
 9) Get creative and test some other user prompts keeping in mind the system prompt currently is "You are Grok, a chatbot inspired by the Hitchhikers Guide to the Galaxy."
 
