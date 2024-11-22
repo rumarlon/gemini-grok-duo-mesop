@@ -1,6 +1,6 @@
 # gemini-grok-duo-mesop
 
-This repo will help you setup an environment where you can use both Gemini or Grok simultaneously. You can also just each model individualy.
+This repo will help you setup an environment where you can use both Gemini or Grok simultaneously. You can also just each use model individualy.
 
 _Get Started with with Mesop choose : Gemini &/or Grok_
 
