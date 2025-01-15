@@ -10,7 +10,7 @@ The following instructions will help you deploy a Mesop app in a python environm
 
 ### Setup requirements as tested:
 
-* MacOS Sequoia 
+* MacOS Sequoia (install WSL Ubuntu on linux if necessary)
 * Python 3.12.4
 * Gemini API Key - Do not commit this in your code or share with others unintetionally. (sign up to get your key [Google AI Studio](https://aistudio.google.com/)
 * Grok API Key - Do not commit this in your code or share with others unintetionally. (sign up and get one at [Grok Console](https://console.x.ai/) as of 11/24 you get a free $25 credit monthly until 1/25)
@@ -51,7 +51,7 @@ mesop main.py
 
 ## What to do next?
 
-Go ahead and change the system prompt and see what you can do with Grok. The prompt for Grok is in the [main.py](https://github.com/rumarlon/gemini-grok-duo-mesop/blob/master/claude.py). You should not have to restart to see the changes as mesop automatically reloads. Sky is the limit!
+Go ahead and change the system prompt and see what you can do with Grok. The prompt for Grok is in [claude.py](https://github.com/rumarlon/gemini-grok-duo-mesop/blob/master/claude.py). You should not have to restart to see the changes as mesop automatically reloads. Sky is the limit!
 
 From:
 ```
