@@ -10,7 +10,7 @@ The following instructions will help you deploy a Mesop app in a python environm
 
 ### Setup requirements as tested:
 
-* MacOS Sequoia (install [WSL](https://learn.microsoft.com/en-us/windows/wsl/install) Ubuntu on linux if necessary)
+* MacOS Sequoia (install [WSL](https://learn.microsoft.com/en-us/windows/wsl/install) Ubuntu on windows if necessary)
 * Python 3.12.4
 * Gemini API Key - Do not commit this in your code or share with others unintetionally. (sign up to get your key [Google AI Studio](https://aistudio.google.com/)
 * Grok API Key - Do not commit this in your code or share with others unintetionally. (sign up and get one at [Grok Console](https://console.x.ai/) as of 11/24 you get a free $25 credit monthly until 1/25)
